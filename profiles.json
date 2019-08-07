@@ -155,6 +155,20 @@
                 ]
             },
             {
+                "command" : "splitHorizontal",
+                "keys" : 
+                [
+                    "ctrl+shift+-"
+                ]
+            },
+            {
+                "command" : "splitVertical",
+                "keys" : 
+                [
+                    "ctrl+shift+\\"
+                ]
+            },
+            {
                 "command" : "switchToTab0",
                 "keys" : 
                 [
