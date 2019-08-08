@@ -36,13 +36,6 @@
                 ]
             },
             {
-                "command" : "moveFocusUp",
-                "keys" : 
-                [
-                    "ctrl+alt+up"
-                ]
-            },
-            {
                 "command" : "moveFocusLeft",
                 "keys" : 
                 [
@@ -54,6 +47,13 @@
                 "keys" : 
                 [
                     "ctrl+alt+right"
+                ]
+            },
+            {
+                "command" : "moveFocusUp",
+                "keys" : 
+                [
+                    "ctrl+alt+up"
                 ]
             },
             {
