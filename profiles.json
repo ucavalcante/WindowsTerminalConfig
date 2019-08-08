@@ -29,6 +29,34 @@
                 ]
             },
             {
+                "command" : "moveFocusDown",
+                "keys" : 
+                [
+                    "ctrl+alt+down"
+                ]
+            },
+            {
+                "command" : "moveFocusUp",
+                "keys" : 
+                [
+                    "ctrl+alt+up"
+                ]
+            },
+            {
+                "command" : "moveFocusLeft",
+                "keys" : 
+                [
+                    "ctrl+alt+left"
+                ]
+            },
+            {
+                "command" : "moveFocusRight",
+                "keys" : 
+                [
+                    "ctrl+alt+right"
+                ]
+            },
+            {
                 "command" : "newTab",
                 "keys" : 
                 [
