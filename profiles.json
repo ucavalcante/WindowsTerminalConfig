@@ -1,4 +1,5 @@
 {
+    "$schema": "https://aka.ms/terminal-profiles-schema",
   "globals": {
     "alwaysShowTabs": true,
     "copyOnSelect": true,
@@ -246,7 +247,7 @@
       "historySize": 9001,
       "icon": "ms-appx:///ProfileIcons/{9acb9455-ca41-5af7-950f-6bca1bc9722f}.png",
       "name": "Debian",
-      "padding": "0, 0, 0, 0",
+      "padding": "8, 0, 0, 0",
       "snapOnInput": true,
       "startingDirectory": "%USERPROFILE%",
       "useAcrylic": false
