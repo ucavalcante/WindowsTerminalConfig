@@ -25,7 +25,7 @@
                 "snapOnInput": true,
                 "startingDirectory": "%USERPROFILE%",
                 "useAcrylic": true,
-                "backgroundImage": "E:/Users/uCavalcante/OneDrive/Imagens/Gifs/zero_011.gif",
+                "backgroundImage": "%USERPROFILE%/OneDrive/Imagens/Gifs/zero_011.gif",
                 "backgroundImageOpacity": 0.3,
                 "backgroundImageStretchMode": "none",
                 "backgroundImageAlignment": "bottomRight"
@@ -35,7 +35,9 @@
                 "hidden": false,
                 "name": "Debian",
                 "source": "Windows.Terminal.Wsl",
-                "backgroundImage": "E:/Users/uCavalcante/OneDrive/Imagens/Gifs/infinite_bg_001.gif",
+                "fontFace": "Cascadia Code",
+                "fontSize": 10,
+                "backgroundImage": "%USERPROFILE%/OneDrive/Imagens/Gifs/infinite_bg_001.gif",
                 "backgroundImageOpacity": 0.1,
                 "backgroundImageStretchMode": "fill",
                 "backgroundImageAlignment": "center"
@@ -45,7 +47,9 @@
                 "hidden": false,
                 "name": "PowerShell",
                 "source": "Windows.Terminal.PowershellCore",
-                "backgroundImage": "E:/Users/uCavalcante/OneDrive/Imagens/Gifs/halo_003.gif",
+                "fontFace": "Cascadia Code",
+                "fontSize": 10,
+                "backgroundImage": "%USERPROFILE%/OneDrive/Imagens/Gifs/halo_003.gif",
                 "backgroundImageOpacity": 0.2,
                 "backgroundImageStretchMode": "uniformToFill",
                 "backgroundImageAlignment": "center"
@@ -56,7 +60,9 @@
                 "name": "cmd",
                 "commandline": "cmd.exe",
                 "hidden": false,
-                "backgroundImage": "E:/Users/uCavalcante/OneDrive/Imagens/Gifs/HarshFormalIrishwolfhound-size_restricted.gif",
+                "fontFace": "Cascadia Code",
+                "fontSize": 10,
+                "backgroundImage": "%USERPROFILE%/OneDrive/Imagens/Gifs/HarshFormalIrishwolfhound-size_restricted.gif",
                 "backgroundImageOpacity": 0.3,
                 "backgroundImageStretchMode": "fill"
             },
